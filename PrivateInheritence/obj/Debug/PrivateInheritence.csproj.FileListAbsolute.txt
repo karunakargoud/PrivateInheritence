@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\PrivateInheritence\PrivateInheritence\obj\Debug\PrivateInheritence.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\PrivateInheritence\PrivateInheritence\obj\Debug\PrivateInheritence.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\PrivateInheritence\PrivateInheritence\bin\Debug\PrivateInheritence.exe.config
+C:\Users\karun\source\repos\PrivateInheritence\PrivateInheritence\bin\Debug\PrivateInheritence.exe
+C:\Users\karun\source\repos\PrivateInheritence\PrivateInheritence\bin\Debug\PrivateInheritence.pdb
+C:\Users\karun\source\repos\PrivateInheritence\PrivateInheritence\obj\Debug\PrivateInheritence.exe
+C:\Users\karun\source\repos\PrivateInheritence\PrivateInheritence\obj\Debug\PrivateInheritence.pdb
